@@ -24,12 +24,12 @@
 
 ### Задание 1
 
-Поле для вставки кода...
 rsync -aP --checksum --exclude ".*/" . /tmp/backup
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Задание1]([https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S1.jpg)
+![Задание1]([https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S2.jpg)
+![Задание1]([https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S3.jpg)
 
 
 ---
