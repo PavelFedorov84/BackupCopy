@@ -34,18 +34,10 @@ rsync -aP --checksum --exclude ".*/" . /tmp/backup
 ---
 
 ### Задание 2
-![Задание1](https://github.com/PavelFedorov84/BackupCopy/blob/main/config/crontab)
+![cronlab](https://github.com/PavelFedorov84/BackupCopy/blob/main/config/crontab)
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![Задание1](https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S4.jpg)
+![Задание1](https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S5.jpg)
 
 
 ---
