@@ -27,9 +27,9 @@
 rsync -aP --checksum --exclude ".*/" . /tmp/backup
 ```
 
-![Задание1]([https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S1.jpg)
-![Задание1]([https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S2.jpg)
-![Задание1]([https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S3.jpg)
+`![Задание1]([https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S1.jpg)`
+`![Задание1]([https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S2.jpg)`
+`![Задание1]([https://github.com/PavelFedorov84/BackupCopy/blob/main/img/S3.jpg)`
 
 
 ---
